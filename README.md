@@ -59,7 +59,7 @@ IPL-Dashboard/
  └── README.md           # Project documentation
 ```
 
-## ▶️ How to Use
+## How to Use
 
 1. Download `dashboard.xlsx`
 2. Open in Microsoft Excel
